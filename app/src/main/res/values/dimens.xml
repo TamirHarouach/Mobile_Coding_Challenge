@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ImgDime"> 30dp</dimen>
+    <dimen name="MargBotTop"> 8dp</dimen>
+    <dimen name="MargLeft"> 18dp</dimen>
+    <dimen name="MargRight"> 10dp</dimen>
+</resources>
